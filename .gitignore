@@ -11,3 +11,11 @@ log/
 .vscode/
 .idea/
 *.swp
+build/
+install/
+log/
+**/__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.swp
